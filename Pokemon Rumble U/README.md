@@ -1,9 +1,8 @@
 # Pokemon Rumble U
-This collection is far from complete
-<br>
-If you find something missing pleace reach out to me
+This collection is complete
 
-# Missing Pokemon files
+
+# Present Pokemon files
 
 Bulbasaur
 <br>
@@ -31,6 +30,8 @@ Genesect
 <br>
 Mew
 <br>
+Celebi
+<br>
 Jirachi
 <br>
 Deoxys (Normal Forme)
@@ -46,3 +47,25 @@ Pikachu (Shiny)
 Eevee (Shiny)
 <br>
 Genesect (Shiny)
+
+# Promotional figures
+
+Kyurem (Black)
+<br>
+Kyurem (White)
+
+# Japanese Exclusive Figures
+
+Pikachu (Punchy)
+<br>
+Lucarion (Pokémon Smash)
+<br>
+Genesect (Extreme Speed)
+<br>
+Genesect (Burn Drive)
+<br>
+Genesect (Chill Drive)
+<br>
+Genesect (Douse Drive)
+<br>
+Genesect (Shock Drive)
