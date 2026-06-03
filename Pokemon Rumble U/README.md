@@ -58,7 +58,7 @@ Kyurem (White)
 
 Pikachu (Punchy)
 <br>
-Lucarion (Pokémon Smash)
+Lucario (Pokémon Smash)
 <br>
 Genesect (Extreme Speed)
 <br>
